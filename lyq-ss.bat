@@ -1,1 +1,1 @@
-npm i && forever stopall &&npm run local
+npm i && npm run local
