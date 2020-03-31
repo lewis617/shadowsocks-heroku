@@ -1,1 +1,2 @@
-npm i && npm run local
+cd  %~dp0
+npm run local
